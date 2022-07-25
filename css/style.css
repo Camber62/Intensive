@@ -264,7 +264,6 @@ button {
 }
 
 
-
 .restaurants .card-text {
     min-height: auto;
 }
@@ -550,6 +549,11 @@ button {
     justify-content: space-between;
 }
 
+.error {
+    display: none;
+    color: red;
+}
+
 .modal-auth .modal-footer {
     justify-content: flex-end;
 }
@@ -609,7 +613,6 @@ button {
     }
 
 
-
     .pizza {
         padding: 50px;
         background-size: 500px;
@@ -630,7 +633,6 @@ button {
     .sushi {
         background-position: top 30px right -175px;
     }
-
 
 
     .promo-text {
